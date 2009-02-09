@@ -1,0 +1,14 @@
+Layers in the XCF file:
+
+Grid: simple grid separating the tiles.
+New Layer copy: used for perspective and light source. Can be modded onto the pixels for a more realistic look, or left off.
+Helmet: the helmet, obviously.
+Frame 7 (80ms) (replace): appears to change only the skull in one frame. Not much use.
+Chest: the chest part of the armor set.
+Wrists: the gauntlet part of the set.
+Gloves: gloves. Can be separate from the gauntlets or bundled together.
+Legs: the pants, obviously.
+Boots: boots, duh.
+Background: the (male) player sprite.
+New Layer#1: gray background.
+Everything under New Layer#1: doesn't look important.
