@@ -1,0 +1,9 @@
+Author: Fother J
+Post subject: Bottles
+
+Directions for Use
+
+  * !Face Glass is the top layer. Place any items below it.
+  * !Base should be the bottom layer.
+  * @Stencil is just a training layer so you don't draw
+    the contained item outside of the glass.
