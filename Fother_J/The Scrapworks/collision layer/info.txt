@@ -1,0 +1,7 @@
+Disclaimer: I have not played with Tiled too much, or properly researched this before posting, so it's likely there's some implemented function in tiled or in the game that I'm not aware of, so apologies in advance!
+
+My proposal is for use of an interactions layer that would be used to define tile properties.  This could well be some further use of the collision layer but with different identifying tiles.  Basically the layer would identify if a water tile is a water surface, if wood surface is a wood surface, stone stone, or if the ground is diggable, or if something is an anchor point for some future grappling item's use.
+
+Here's the surfaces that are on the top of my head that might be best to define:
+[list]
+[*]water/liquid[list][*]Shallow (walkable, with a splashy particle effect)[*]Deep (only transversable when certain water walking spells or a certain status item is equipped)[/list][*]Solid / Non digable[list][*]Hollow (wood/docks, could possibly use a wood floor faint sound effect)[*]hard (stone/cement/brick/rock)[/list][/list][*]Soft / digable[list][*][/list]
