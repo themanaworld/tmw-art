@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<map version="0.99b" orientation="orthogonal" width="60" height="60" tilewidth="32" tileheight="32">
+ <tileset name="Untitled" firstgid="1" tilewidth="32" tileheight="32">
+  <image source="tileset0-tm-wall-03.png"/>
+ </tileset>
+ <tileset name="Untitled" firstgid="257" tilewidth="32" tileheight="32">
+  <image source="examples/desert200zookeeper4fr3.png"/>
+ </tileset>
+ <tileset name="Untitled" firstgid="513" tilewidth="32" tileheight="32">
+  <image source="fountain4.png"/>
+ </tileset>
+ <tileset name="Untitled" firstgid="577" tilewidth="32" tileheight="32">
+  <image source="tileset0-tm-wall-03.png"/>
+ </tileset>
+ <layer name="Layer 0" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3USwrCMBQF0OoS3al1BVZdgL/tlGagIGLqUyim8QzOKPC4lwvpF03Tj1gtPzd2r3T66ltT30fbpHthV0A2fb+3Ttrkmul7ub1vCsg65a5z3LkNyO2a27lkkR4wF6eAQ/DWPnjvl/7tf444vtn5vuu5gKxT9H5WW08AAAAAAAAAAACAmgz3AQwwQDgAAA==
+  </data>
+ </layer>
+ <layer name="Layer 1" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO2VSU7DQBBFWy2GHWLBPC9AzGQDYt4RwriEHYgLgLgAJDeAQ8EN4D68SEZyTBuVRQiN9Z/05PKXy057qNS9cw3scq3Wc3KLeb0x5E9sn3HAtRrKh3EER3EMx3ECJw29seSzOIc3eIXXSR3K53EBF3EJl3EFVw29seTruIH3eIt3SR3KN3ELt3EHd3EP9w29seQHWMUGPuBjUofyGh7hMZ7gKZ7huaE3lrxJP/YZaguh47PneeFbevX267aznsYZnDLUFtLH11jTof+av5G9B/JO1JXkd64ZagvZ3kv//Xks121nLUTZ+K35HGMdmmPdObmFojOz6v9mPg8623zOe86f9zGv98J3dg7/dD73Yk9qP/ueF30PYqf5/IdS+9n1Ff2f/m+UfX1CCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQoLx+adcBJQDgAAA==
+  </data>
+ </layer>
+ <layer name="Layer 2" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3OuxWCQABEUfrvwU8DCg2oNOCnAdAGQEtg4s13E+8950WTTNfx7+7pkZ7pVWy7tE+HdGx7q5opzemdPsV2SufUp6HtrWqWtKZv+hXbJV3TLY1tbwEAAAAAAAAAAAAAAACVbdSHc1xAOAAA
+  </data>
+ </layer>
+</map>

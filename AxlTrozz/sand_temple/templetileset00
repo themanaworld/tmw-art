@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<map version="0.99b" orientation="orthogonal" width="60" height="60" tilewidth="32" tileheight="32">
+ <tileset name="Temple" firstgid="1" tilewidth="32" tileheight="32">
+  <image source="../../../../Documents and Settings/Administrator.CCOUSALI13.001/My Documents/My Pictures/temple.png"/>
+ </tileset>
+ <tileset name="temple2" firstgid="257" tilewidth="32" tileheight="32">
+  <image source="../../../../Documents and Settings/Administrator.CCOUSALI13.001/My Documents/My Pictures/temple.png"/>
+ </tileset>
+ <tileset name="temple3" firstgid="513" tilewidth="32" tileheight="32">
+  <image source="../../../../Documents and Settings/Administrator.CCOUSALI13.001/My Documents/My Pictures/temple.png"/>
+ </tileset>
+ <tileset name="desert" firstgid="769" tilewidth="32" tileheight="32">
+  <image source="examples/desert200zookeeper4fr3.png"/>
+ </tileset>
+ <layer name="Layer 0" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3XSU7DMBQG4AifjksULlA4AbBmXjNcgGFTWDFsWugBCq0EnABYcAZ+C1tynRcap8VOwr/4lKF90fvtNHUGKssGc/hKpGqf82Rl3vblXc6m1T2v36ffv9YX6h4Kvpsqb2i/tm4bdmAX9sx3RtgOndpHeIYTOC24Tmyh/dq6Izj2PrtQ02Omx+rcqEve0H5t3Zk5r2sulXyP2HvDz5oyb2i/tu4GbuEO7mfU1+n3G9qvrSvKEZK3AyuwGjFvaL+LzLsG65HnN1XeDXy2CVsNzdvDuSuYOPVjc+4aXuAV3kztPrYHcJgoZ9l+pfqeV+cbm2ukfF5V7TdXvySvU8quW6LnDezXrZfuid/GTLq37fWkc4vOq7ez5tafY1tftk4aN1tv88fcLzO3UuaQOmmeJ85xiv3Q+amat2n+e179DjVs6f6T+nk/1HlHznFb94ue9R2VX/v/9f9LSl2VX/u/wwd8lrxGk8Yn1do/ldhrfyIiIiIiIiIiIiIiIiIiIiLJN92aCzdAOAAA
+  </data>
+ </layer>
+ <layer name="Layer 1" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3VV0/CUByGcSAmjjuFxHGn38y9cW8Fxb3AvQUFNBoV/Ig+RLwxPUm1NEJ9n+QX4G9P6YkNbff5fB3oRBe60YNe9KEfAxjEEIYRxghGC2sDrEUXwhhBu8tzJ9c7hnFMYBJTmMYMZjGHeSxgEUuIIIrlwlq+fwKTiCAaKJ7TxbmT611BDKtYwzo2sIktbGMHu9jDPuJI4IDvjmEVa4gjESie08W5k+s95PUIxzjBKc5wjgtc4grXuMEtkkjhjvVHOMYJkkh9ndPFuZPrvec1jQyyeMCj77MnPBffv+AVb8ghj3fWp5FBFjnkv87p4tzJ9VpVy7zu29+q+VxjOL7Sa2ZfLd/21sjnJo/u12+xL6uZV6q32Fth1oCgB/cdsthTK7M2j+3Vzj3rpfu6ysY9a+eYSilk4561c0w55/c7WGvY91/N7VTPfhsQ/MW+Tb/ZpnveNDed56dzO7Wyz7Zf/o9Nv9mme940N53np3Ol1P+p3J4vbs9L9VyolHmpnguVMldKKaWUUkoppZRSSimllFJKKaWUUsrtPgBc4eEPQDgAAA==
+  </data>
+ </layer>
+</map>

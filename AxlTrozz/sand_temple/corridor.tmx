@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<map version="0.99b" orientation="orthogonal" width="24" height="21" tilewidth="32" tileheight="32">
+ <tileset name="temple" firstgid="1" tilewidth="32" tileheight="32">
+  <image source="temple05.png"/>
+ </tileset>
+ <tileset name="desert" firstgid="257" tilewidth="32" tileheight="32">
+  <image source="examples/desert200zookeeper4fr3.png"/>
+ </tileset>
+ <tileset name="temple2" firstgid="513" tilewidth="32" tileheight="32">
+  <image source="temple05.png"/>
+ </tileset>
+ <tileset name="temple3" firstgid="769" tilewidth="32" tileheight="32">
+  <image source="temple05.png"/>
+ </tileset>
+ <tileset name="temple4" firstgid="1025" tilewidth="32" tileheight="32">
+  <image source="temple05.png"/>
+ </tileset>
+ <tileset name="temple5" firstgid="1281" tilewidth="32" tileheight="32">
+  <image source="temple05.png"/>
+ </tileset>
+ <layer name="Layer 0" width="60" height="30" yoffset="-9">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3P2QkAIAwFwRRt/9iAoOAVdBby+8hE5Kxsut72rXh5eXl5eTN4o/EL7znv6PZMvLyrvbPbvLy8vLxveTP+tLPfvJIk6Z0qCeN1YCAcAAA=
+  </data>
+ </layer>
+ <layer name="Layer 1" width="60" height="30" yoffset="-9">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO2WvS5EURSFd7GPKSiHKWgkjIKSUVAODY8weAE/T0CClklQ02jRaFGYFk+AJ0CiR6yTObe4ObPvTczI7Jw5K/myb85OJnsls5JF1FuqMdEKMKAPFEA/GMBuFXOt2wd2WOvwtAEGwRAogWEwgt0m5la3D+ywDuBpG4yDMpgAk2AKu50A/V6AQ/iaARUwC+bAPN7rgfo9ha8FsMjNtyXMZcyzQP2+C7srCtPvt7C7ozD9Pgq7JwrT74uwe6Uw/Ur5/aDWfpOOwg6vq7DerpKV3x9q7TfpKEWH11VYb1f5S36TjjLm8LoK6+0qefndxd17YJ/T37ajTDu8rsJ6u0pefk9w97HjyE37ZjtK1eF1FdbbVW4oO7/nuHvUpLFvl5z9u1q7ygNl5/fa/mdNGvt2m+NXa1d5Jjm/Vg34undUTXM2crxaae0qbyTntx1p7SpfJOe3HUldRYM+zf8QFRUVFRUVFdWL+gXIqxsYIBwAAA==
+  </data>
+ </layer>
+</map>
