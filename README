@@ -1,9 +1,3 @@
-This repository is meant to contain the "sources" of the art used in The Mana
-World, including work in progress and conceptual art. Most important, here is
-where we keep the art in the preferred form for modification.
+Everything that used to be in the repository got moved into archive/
 
-In contrast, the 'tmwdata' repository contains the art actually used in the
-game.
-
-See the COPYING file for the license.
-See the AUTHORS file for the list of authors.
+In the top level folders, please only add things are [RC].
