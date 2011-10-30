@@ -3,6 +3,7 @@ Here is the list of all finished graphics:
 - Broken Four-Leaf Amulet
 - Herb Crown
 - Lizard Helmet
+- Long Sleeve Shirt
 - Music Stand
 - Solar Shades
 - Visor Helmet
