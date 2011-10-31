@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<sprite>
+    <imageset name="base" src="graphics/sprites/npcs/undead-cart.png" width="110" height="100" />
+    <action name="stand" imageset="base">
+        <animation direction="default">
+            <!-- fork movements -->
+            <frame index="0" delay="3000"/>
+            <frame index="1" delay="500"/>
+            <frame index="0" delay="1500"/>
+            <frame index="1" delay="300"/>
+            <frame index="0" delay="3000"/>
+            <frame index="1" delay="2000"/>
+        </animation>
+    </action>
+</sprite>
