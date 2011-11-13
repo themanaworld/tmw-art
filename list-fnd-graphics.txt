@@ -1,5 +1,6 @@
 Here is the list of all finished graphics:
 - Assassin Cap
+- Brass Knuckles
 - Dark Knight Helmet
 - Egyptian Mask
 - Fireherb
