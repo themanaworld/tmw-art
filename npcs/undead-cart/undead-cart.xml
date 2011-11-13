@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sprite>
-    <imageset name="base" src="graphics/sprites/npcs/undead-cart.png" width="110" height="100" />
+    <imageset name="base" src="graphics/sprites/npcs/undead-cart.png" width="103" height="83" />
     <action name="stand" imageset="base">
         <animation direction="default">
             <!-- fork movements -->
