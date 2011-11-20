@@ -3,13 +3,16 @@ Here is the list of all finished graphics:
 - Barrel
 - Brass Knuckles
 - Dark Knight Helmet
+- Duck on a String
 - Egyptian Mask
 - Fireherb
 - Herb Crown
 - Lizard Helmet
 - Long Sleeve Shirt
 - Music Stand
+- Round Box
 - Solar Shades
 - Tut Mask
 - Undead Cart
 - Visor Helmet
+- Wombie Bear
