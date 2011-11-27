@@ -12,6 +12,7 @@ Here is the list of all finished graphics:
 - Music Stand
 - Round Box
 - Solar Shades
+- Trivia Trophy
 - Tut Mask
 - Undead Cart
 - Visor Helmet
