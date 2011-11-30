@@ -6,6 +6,7 @@ Here is the list of all finished graphics:
 - Duck on a String
 - Egyptian Mask
 - Fireherb
+- Gladiator Helmet
 - Herb Crown
 - Lizard Helmet
 - Long Sleeve Shirt
@@ -16,4 +17,5 @@ Here is the list of all finished graphics:
 - Tut Mask
 - Undead Cart
 - Visor Helmet
+- Winged Helm
 - Wombie Bear
