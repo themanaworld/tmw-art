@@ -2,6 +2,7 @@ Here is the list of all finished graphics:
 - Assassin Cap
 - Barrel
 - Brass Knuckles
+- Cookie Boxes
 - Dark Knight Helmet
 - Duck on a String
 - Egyptian Mask
