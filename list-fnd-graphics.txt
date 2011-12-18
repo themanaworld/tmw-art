@@ -1,5 +1,6 @@
 Here is the list of all finished graphics:
 - Assassin Cap
+- Banana
 - Barrel
 - Brass Knuckles
 - Cookie Boxes
