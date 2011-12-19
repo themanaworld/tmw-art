@@ -2,6 +2,7 @@ Here is the list of all finished graphics:
 - Assassin Cap
 - Banana
 - Barrel
+- Bottled Monsters
 - Brass Knuckles
 - Cookie Boxes
 - Dark Knight Helmet
