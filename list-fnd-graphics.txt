@@ -13,6 +13,7 @@ Here is the list of all finished graphics:
 - Herb Crown
 - Lizard Helmet
 - Long Sleeve Shirt
+- Magic Harp
 - Mortar Arrow
 - Round Box
 - Solar Shades
