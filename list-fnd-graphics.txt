@@ -14,7 +14,6 @@ Here is the list of all finished graphics:
 - Lizard Helmet
 - Long Sleeve Shirt
 - Mortar Arrow
-- Music Stand
 - Round Box
 - Solar Shades
 - Staff Master
