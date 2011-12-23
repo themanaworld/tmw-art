@@ -23,4 +23,5 @@ Here is the list of all finished graphics:
 - Undead Cart
 - Visor Helmet
 - Winged Helm
+- Wolf Pelts
 - Wombie Bear
