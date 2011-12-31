@@ -21,6 +21,7 @@ Here is the list of all finished graphics:
 - Trivia Trophy
 - Tut Mask
 - Undead Cart
+- Venetian Mask
 - Visor Helmet
 - Winged Helm
 - Wolf Pelts
