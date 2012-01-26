@@ -19,6 +19,7 @@ Here is the list of all finished graphics:
 - Round Box
 - Solar Shades
 - Staff Master
+- Toilet Plunger
 - Trivia Trophy
 - Tut Mask
 - Undead Cart
